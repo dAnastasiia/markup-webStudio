@@ -8,6 +8,7 @@
 	border-radius: 4px;
 
 	align-items: center;
+	justify-content: center;
 
 	color: $tretiary-text-color;
 	background-color: $accent-color;
@@ -18,10 +19,10 @@
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.87;
-    letter-spacing: 0.06em;
-    
-    &:hover,
-    &:focus{
-        cursor: pointer;
+	letter-spacing: 0.06em;
+
+	&:hover,
+	&:focus {
+		cursor: pointer;
 	}
 }
